@@ -1,5 +1,6 @@
 import Weather from "./Weather";
 import Background from "./Background";
+import Footer from "./Footer";
 import "./App.css";
 
 function App() {
@@ -9,6 +10,7 @@ function App() {
         <h1>Hello from React!</h1>
         <Background />
         <Weather />
+        <Footer />
       </header>
     </div>
   );
