@@ -3,6 +3,7 @@ import React from "react";
 export default function Footer() {
   return (
     <div className="Footer">
+      <hr ClassName="line" />
       <footer>
         This project was coded by
         <a
