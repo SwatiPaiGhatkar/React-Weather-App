@@ -7,7 +7,7 @@ export default function Footer() {
       <footer>
         This project was coded by
         <a
-          href="https://github.com/SwatiPaiGhatkar"
+          href="https://github.com/SwatiPaiGhatkar?tab=repositories"
           target="_blank"
           rel="noreferrer"
         >

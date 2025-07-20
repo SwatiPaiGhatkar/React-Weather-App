@@ -3,7 +3,7 @@ import WeatherContainer from "./WeatherContainer";
 
 export default function Background() {
   return (
-    <div className="backgroundImage">
+    <div className="backGround">
       <WeatherContainer />
     </div>
   );

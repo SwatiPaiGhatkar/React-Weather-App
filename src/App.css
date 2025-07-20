@@ -4,7 +4,7 @@ body {
   font-weight: 400;
   font-style: normal;
 }
-.backgroundImage {
+.backGround {
   background-image: url("https://s3.amazonaws.com/shecodesio-production/uploads/files/000/170/549/original/weather_wallpaper.jpg?1752539682");
   background-repeat: no-repeat;
   background-attachment: fixed;
