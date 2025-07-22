@@ -18,6 +18,7 @@ export default function Search() {
           />
           <input type="submit" value="Search" className="search-button" />
         </form>
+        <hr ClassName="line" />
       </header>
     </div>
   );

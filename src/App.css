@@ -29,10 +29,7 @@ body {
   background-size: auto;
   opacity: 0.8;
 }
-header {
-  border-bottom: 1px solid #f9f7fe;
-  padding: 0 0 30px 0;
-}
+
 .app-logo {
   max-width: 150px;
   max-height: 100px;
@@ -76,6 +73,7 @@ header {
   margin: 30px 0;
   color: white;
   opacity: 0.5;
+  margin-top: 30px;
 }
 .current-weather {
   display: flex;
